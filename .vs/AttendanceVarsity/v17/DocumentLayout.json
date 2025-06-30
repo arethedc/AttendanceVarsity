@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\scanattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:scanattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\scanattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:scanattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\managesessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:managesessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\managesessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:managesessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\manageattendancessession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:manageattendancessession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\manageattendancesplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:manageattendancesplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\manageattendancessession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:manageattendancessession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\manageattendancesplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:manageattendancesplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\manageplayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:manageplayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\manageplayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:manageplayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\createsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:createsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\createsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:createsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\registerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:registerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\registerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:registerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\scanattendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:scanattendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|c:\\users\\acer\\desktop\\attendancevarsity\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F845B07-BB63-4273-90D6-077B6337009A}|AttendanceVarsity.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:53:15.901Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:53:18.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageSessions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ManageSessions.cs",
+              "RelativeDocumentMoniker": "ManageSessions.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ManageSessions.cs [Design]",
+              "RelativeToolTip": "ManageSessions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:02:04.194Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageSessions.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ManageSessions.cs",
+              "RelativeDocumentMoniker": "ManageSessions.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ManageSessions.cs",
+              "RelativeToolTip": "ManageSessions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:02:06.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScanAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ScanAttendance.cs",
+              "RelativeDocumentMoniker": "ScanAttendance.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ScanAttendance.cs",
+              "RelativeToolTip": "ScanAttendance.cs",
+              "ViewState": "AgIAAKwBAAAAAAAAAAAswMQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:58:11.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScanAttendance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ScanAttendance.cs",
+              "RelativeDocumentMoniker": "ScanAttendance.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ScanAttendance.cs [Design]",
+              "RelativeToolTip": "ScanAttendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:58:05.969Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAqwKcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:08:11.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageAttendancesSession.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ManageAttendancesSession.cs",
+              "RelativeDocumentMoniker": "ManageAttendancesSession.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ManageAttendancesSession.cs",
+              "RelativeToolTip": "ManageAttendancesSession.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAASwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:07:58.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageAttendancesPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ManageAttendancesPlayer.cs",
+              "RelativeDocumentMoniker": "ManageAttendancesPlayer.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ManageAttendancesPlayer.cs",
+              "RelativeToolTip": "ManageAttendancesPlayer.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAASwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:05:53.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageAttendancesPlayer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ManageAttendancesPlayer.cs",
+              "RelativeDocumentMoniker": "ManageAttendancesPlayer.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ManageAttendancesPlayer.cs [Design]",
+              "RelativeToolTip": "ManageAttendancesPlayer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:05:51.929Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageAttendancesSession.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ManageAttendancesSession.cs",
+              "RelativeDocumentMoniker": "ManageAttendancesSession.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ManageAttendancesSession.cs [Design]",
+              "RelativeToolTip": "ManageAttendancesSession.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:02:20.204Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManagePlayers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ManagePlayers.cs",
+              "RelativeDocumentMoniker": "ManagePlayers.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ManagePlayers.cs [Design]",
+              "RelativeToolTip": "ManagePlayers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:01:55.859Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagePlayers.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ManagePlayers.cs",
+              "RelativeDocumentMoniker": "ManagePlayers.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ManagePlayers.cs",
+              "RelativeToolTip": "ManagePlayers.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAmwL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:46:33.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateSession.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\CreateSession.cs",
+              "RelativeDocumentMoniker": "CreateSession.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\CreateSession.cs",
+              "RelativeToolTip": "CreateSession.cs",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAjwGYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:01:06.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateSession.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\CreateSession.cs",
+              "RelativeDocumentMoniker": "CreateSession.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\CreateSession.cs [Design]",
+              "RelativeToolTip": "CreateSession.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:01:03.107Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterPlayer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\RegisterPlayer.cs",
+              "RelativeDocumentMoniker": "RegisterPlayer.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\RegisterPlayer.cs [Design]",
+              "RelativeToolTip": "RegisterPlayer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:01:40.981Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\RegisterPlayer.cs",
+              "RelativeDocumentMoniker": "RegisterPlayer.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\RegisterPlayer.cs",
+              "RelativeToolTip": "RegisterPlayer.cs",
+              "ViewState": "AgIAAN4BAAAAAAAAAAAhwOgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:02:45.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScanAttendance.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ScanAttendance.Designer.cs",
+              "RelativeDocumentMoniker": "ScanAttendance.Designer.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\ScanAttendance.Designer.cs",
+              "RelativeToolTip": "ScanAttendance.Designer.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAqwJYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:23:25.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:17:49.151Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\AttendanceVarsity\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAjwGgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:17:52.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
